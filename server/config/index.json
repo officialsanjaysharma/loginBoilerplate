@@ -1,0 +1,6 @@
+{
+  "gmailId": "sanjaysharmarockstar",
+  "gmailPassword": "Bareilly_007_007",
+  "privateKeyForAuth": "password",
+  "privateKeyForForgotPassword": "encryptionToken"
+}
